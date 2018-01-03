@@ -1,7 +1,7 @@
 # Gnüwhine recipe
 
 ## Make your own Gnüwhine
-Choose from the following ingredients: krambambuli, rum, sugar, lemon  
+Choose from the following ingredients: krambambuli, rum, cognac, sugar, cinnamon, coffee, lemon
 the key is the ingredient, the value is the amount in milliliter or percentage. Example:
 
 krabambuli: 70%  
