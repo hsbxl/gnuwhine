@@ -4,7 +4,7 @@
 Choose from the following ingredients: krambambuli, rum, cognac, sugar, cinnamon, coffee, lemon.  
 The key is the ingredient, the value is the amount in milliliter or percentage. Example:
 
-krabambuli: 70%  
+krambambuli: 70%  
 or  
 rum: 10ml
 
