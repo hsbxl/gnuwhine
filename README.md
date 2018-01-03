@@ -1,8 +1,6 @@
-###################
-# Gnüwhine recipe #
-###################
+# Gnüwhine recipe
 
-# Make your own Gnüwhine
+## Make your own Gnüwhine
 Choose from the following ingredients: krambambuli, rum, sugar, lemon
 the key is the ingredient, the value is the amount in milliliter or percentage. Example:
 
