@@ -1,0 +1,24 @@
+###################
+# Gnüwhine recipe #
+###################
+
+# Make your own Gnüwhine
+# Choose from the following ingredients: krambambuli, rum, sugar, lemon
+# the key is the ingredient, the value is the milliliter or percentage. Example:
+# krabambuli: 70%
+# or
+# rum: 10ml
+
+# Make a fork from https://github.com/hsbxl/gnuwhine and your fork will be listed on our interface.
+# For making multiple variants, use branches.
+#
+# Happy Gnüwhining!
+
+
+krambambuli: 70%
+rum: 20%
+lemon: 5%
+sugar: 5%
+
+
+
