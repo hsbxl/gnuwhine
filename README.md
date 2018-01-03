@@ -11,5 +11,6 @@ rum: 10ml
 Make a fork from https://github.com/hsbxl/gnuwhine, edit the recipe.yml file,
 then your fork will be listed on our interface.
 For making multiple variants, use branches.
+No pull requests needed. Just edit/push to your own fork.
 
 Happy Gnüwhining!
